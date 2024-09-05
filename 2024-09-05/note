@@ -1,0 +1,17 @@
+1.github login
+2.repository
+3.click on + sign new repo
+4. name to repo
+5. public/private
+6.create repo
+7.open vs code
+8/ select that floder which we need to upload 
+9. cd + folder name
+10. cd... to back to the previous floder
+11. git status
+12. git add abc
+13 git add .
+14. git commit -m "first commit"
+15. git remote add origin https://github.com/saurabhSonalkar09/one.git
+16. git branch -M main
+17. git push -u origin main
